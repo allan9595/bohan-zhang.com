@@ -31,9 +31,8 @@ When encouthing Log Analysis, it was a lot fun because it encounted some data an
 
 You can check my NCL scouting reporting by click following links :
 
-## [2017 Fall NCL Competition](https://github.com/allan9595/NCL-2017-Fall) 
-## [2017 Fall NCL team scouting report](https://github.com/allan9595/NCL-2017-Fall-Team) 
-## [2017 Spring NCL competition](https://github.com/allan9595/NCL2017) 
+## [2017 Fall NCL Competition](https://github.com/allan9595/NCL/tree/master/NCL_2017_Fall) 
+## [2017 Spring NCL competition](https://github.com/allan9595/NCL/tree/master/NCL_2017_Spring/NCL_2017_Spring-master) 
 
 
 ### Researching Project on Smart Home Security
