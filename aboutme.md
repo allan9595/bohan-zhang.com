@@ -10,7 +10,7 @@ I am Bohan Zhang (Allan Chang). I am a senior studying computer secience at Univ
 
 ### [Web Master Office at UNT Cyber Security Club](https://untcybersecurity.com/)
 
-As UNT Cyber Security Club Web Master, I am mainly working on club's website designing and maintaining. Currently, our website running on Jekyll. The biggest joy to be a web master officer is that I can constanly imporve the website and fix the layout issues. Also, being an officer in this club pushes me to always learn different areas about cyber security and bring back the knowledges to this community. 
+As UNT Cyber Security Club Web Master, I am mainly working on club's website designing and maintaining. Currently, our website running on Jekyll. The biggest thing for me to be a web master officer is that I can constanly imporve the website and fix the layout issues. Also, being an officer in this club pushes me to always learn different areas about cyber security and bring back the knowledges to this community. 
 
 ### [Participating NATIONAL CYBER LEAGUE](https://www.nationalcyberleague.org/)
 
