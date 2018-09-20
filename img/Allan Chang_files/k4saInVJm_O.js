@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["UZzU5"]); }
+
+__d("TimelineEntStreamContentLoader",["csx","CSS","DOMQuery","ge"],(function(a,b,c,d,e,f,g){__p&&__p();a={removeDupes:function(a){a=b("ge")(a);if(!a)return;var c={},d=[];b("DOMQuery").scry(a,"._5jmm").forEach(function(a){a&&a.id&&a.id.startsWith("tl_unit_")&&(c[a.id]?d.push(a):c[a.id]=1)});d.forEach(function(a){a.id+="_dupe",b("CSS").hide(a)})}};e.exports=a}),null);
+__d("FeedProfilePhotoFooter",["SubscriptionsHandler","UFICentralUpdates","URI","destroyOnUnload"],(function(a,b,c,d,e,f){function a(a,c){"use strict";var d=new(b("SubscriptionsHandler"))();d.addSubscriptions(b("UFICentralUpdates").subscribe("actor-changed",function(d,e){return a.setAttribute("href",new(b("URI"))(c).addQueryData("profile_id",e.actorID).toString())}));b("destroyOnUnload")(function(){return d.release()})}e.exports=a}),null);
