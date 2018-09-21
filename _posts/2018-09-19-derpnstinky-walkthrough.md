@@ -2,7 +2,6 @@
 layout: post
 title: DerpNStinky WalkThrough
 ---
-<meta property="og:image" content="https://bohan-zhang.com/img/darp-pen-testing/Screen%20Shot%202018-09-13%20at%2012.36.17%20AM.png"/>
 
 [DerpNStinky](https://www.vulnhub.com/entry/derpnstink-1,221/)
 
