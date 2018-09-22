@@ -3,6 +3,7 @@ layout: post
 title: LazySysAdmin WalkThrough
 ---
 [LazySysAdmin](https://www.vulnhub.com/entry/lazysysadmin-1,205/)
+
 Perface:
 
 LazySysadmin - The story of a lonely and lazy sysadmin who cries himself to sleep
