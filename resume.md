@@ -8,3 +8,7 @@ subtitle: I am trying hard to get around with cyber security
 
 <div><a href="https://bohan-zhang.com/resume/resume.pdf" target="_blank">
   My Resume</a></div>
+
+
+<div><a href="https://bohan-zhang.com/resume/cert.pdf" target="_blank">
+ UNT CYBER SECURITY CERT</a></div>
